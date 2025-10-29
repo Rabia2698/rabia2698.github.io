@@ -3,4 +3,4 @@ title
 skills
 
 
-[← Back to Home](https://rabia2698.github.io/index.html)
+[← Back to Home](https://rabia2698.github.io/readme.html)
